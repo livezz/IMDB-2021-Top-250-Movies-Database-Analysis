@@ -1,0 +1,251 @@
+rank,title,certificate,genre,rate,director,runtime,vote
+1,The King's Man,R,Action,6.4,Matthew Vaughn,131,88927
+2,West Side Story,PG-13,Crime,7.5,Steven Spielberg,156,45667
+3,Free Guy,PG-13,Action,7.2,Shawn Levy,115,301727
+4,Spider-Man: No Way Home,PG-13,Action,8.7,Jon Watts,148,493728
+5,Licorice Pizza,R,Comedy,7.5,Paul Thomas Anderson,133,51426
+6,The Power of the Dog,R,Drama,6.9,Jane Campion,126,126775
+7,Encanto,PG,Animation,7.3,Jared Bush,102,160430
+8,The French Dispatch,R,Comedy,7.2,Wes Anderson,107,90375
+9,Nightmare Alley,R,Crime,7.1,Guillermo del Toro,150,77475
+10,CODA,PG-13,Comedy,8,Sian Heder,111,59775
+11,House of Gucci,R,Crime,6.7,Ridley Scott,158,85521
+12,Belfast,PG-13,Biography,7.3,Kenneth Branagh,98,39118
+13,Don't Look Up,R,Comedy,7.2,Adam McKay,138,456202
+14,Dune,PG-13,Action,8.1,Denis Villeneuve,155,506296
+15,Eternals,PG-13,Action,6.4,Chlo? Zhao,156,270144
+16,Sing 2,PG,Animation,7.5,Garth Jennings,110,37433
+17,Ghostbusters: Afterlife,PG-13,Adventure,7.2,Jason Reitman,124,127931
+18,Drive My Car,Unrated,Drama,7.7,Ry?suke Hamaguchi,179,19569
+19,Cyrano,PG-13,Drama,6.3,Joe Wright,123,4845
+20,The Worst Person in the World,R,Comedy,7.9,Joachim Trier,128,24949
+21,No Time to Die,PG-13,Action,7.3,Cary Joji Fukunaga,163,324446
+22,The Desperate Hour,PG-13,Thriller,4.5,Phillip Noyce,84,1623
+23,The Last Duel,R,Action,7.4,Ridley Scott,152,126162
+24,The Suicide Squad,R,Action,7.2,James Gunn,132,311655
+25,"tick, tick...BOOM!",PG-13,Biography,7.5,Lin-Manuel Miranda,115,82659
+26,King Richard,PG-13,Biography,7.5,Reinaldo Marcus Green,144,59458
+27,The Lost Daughter,R,Drama,6.7,Maggie Gyllenhaal,121,47175
+28,Spencer,R,Biography,6.7,Pablo Larra?n,117,46090
+29,After Yang,PG,Drama,6.7,Kogonada,96,2706
+30,The Matrix Resurrections,R,Action,5.7,Lana Wachowski,148,204321
+31,Old,PG-13,Drama,5.8,M. Night Shyamalan,108,87486
+32,Nobody,R,Action,7.4,Ilya Naishuller,92,210946
+33,Last Night in Soho,R,Drama,7.1,Edgar Wright,116,92493
+34,The Eyes of Tammy Faye,PG-13,Biography,6.7,Michael Showalter,126,15567
+35,Shang-Chi and the Legend of the Ten Rings,PG-13,Action,7.5,Destin Daniel Cretton,132,332181
+36,Venom: Let There Be Carnage,PG-13,Action,6,Andy Serkis,97,180713
+37,Antlers,R,Drama,5.9,Scott Cooper,99,28451
+38,The Prot?g?,R,Action,6.1,Martin Campbell,109,25081
+39,Zack Snyder's Justice League,R,Action,8.1,Zack Snyder,242,363750
+40,F9: The Fast Saga,PG-13,Action,5.2,Justin Lin,143,115950
+41,Being the Ricardos,R,Biography,6.6,Aaron Sorkin,131,32931
+42,The Tragedy of Macbeth,R,Drama,7.2,Joel Coen,105,25276
+43,Red Notice,PG-13,Action,6.4,Rawson Marshall Thurber,118,241436
+44,American Underdog,PG,Biography,7.2,Andrew Erwin,112,7645
+45,Parallel Mothers,R,Drama,7.1,Pedro Almod?var,123,16537
+46,The Fallout,R,Drama,7,Megan Park,96,9939
+47,Benedetta,Unrated,Biography,6.8,Paul Verhoeven,131,12925
+48,The Cursed,R,Fantasy,6.4,Sean Ellis,111,1925
+49,Munich: The Edge of War,PG-13,Biography,6.9,Christian Schwochow,130,23124
+50,Resident Evil: Welcome to Raccoon City,R,Action,5.2,Johannes Roberts,107,38352
+51,The Many Saints of Newark,R,Crime,6.3,Alan Taylor,120,45689
+52,Red Rocket,R,Comedy,7.2,Sean Baker,130,12152
+53,I Am Mortal,Unrated,Sci-Fi,3.1,Tony Aloupis,83,307
+54,Titane,R,Drama,6.6,Julia Ducournau,108,34065
+55,Black Widow,PG-13,Action,6.7,Cate Shortland,134,340104
+56,The Voyeurs,R,Drama,6,Michael Mohan,116,16604
+57,Pleasure,Unrated,Drama,6.3,Ninja Thyberg,109,6974
+58,The Green Knight,R,Adventure,6.6,David Lowery,130,84067
+59,Wrath of Man,R,Action,7.1,Guy Ritchie,119,152920
+60,Cruella,PG-13,Adventure,7.4,Craig Gillespie,134,213640
+61,Jujutsu Kaisen 0: The Movie,PG-13,Animation,8.9,Seong-Hu Park,105,1500
+62,Escape Room: Tournament of Champions,PG-13,Action,5.7,Adam Robitel,88,36084
+63,The Unforgivable,R,Crime,7.2,Nora Fingscheidt,112,97007
+64,The Misfits,R,Action,4.3,Renny Harlin,94,8997
+65,Hellbender,Unrated,Horror,6,John Adams,86,1337
+66,Hitman's Wife's Bodyguard,R,Action,6.1,Patrick Hughes,100,77701
+67,Old Henry,Unrated,Thriller,7.3,Potsy Ponciroli,99,18108
+68,Don't Kill Me,TV-MA,Fantasy,4.2,Andrea De Sica,90,1289
+69,Malignant,R,Crime,6.3,James Wan,111,76907
+70,The Burning Sea,PG-13,Action,6.3,John Andreas Andersen,104,1690
+71,Pig,R,Drama,7,Michael Sarnoski,92,57947
+72,Raya and the Last Dragon,PG,Animation,7.3,Don Hall,107,137036
+73,Jungle Cruise,PG-13,Action,6.6,Jaume Collet-Serra,127,171195
+74,The Tender Bar,R,Drama,6.7,George Clooney,106,21861
+75,The Hand of God,R,Drama,7.4,Paolo Sorrentino,130,32553
+76,Army of Thieves,TV-MA,Action,6.4,Matthias Schweigh?fer,127,67244
+77,Asking for It,R,Thriller,2.8,Eamon O'Rourke,97,344
+78,The Hating Game,R,Comedy,6.3,Peter Hutchings,102,8781
+79,Lamb,R,Drama,6.3,Valdimar J?hannsson,106,19037
+80,The Harder They Fall,R,Action,6.6,Jeymes Samuel,139,55070
+81,The Black Phone,R,Horror,7.8,Scott Derrickson,102,612
+82,Luca,PG,Animation,7.5,Enrico Casarosa,95,141188
+83,The Mitchells vs the Machines,PG,Animation,7.7,Michael Rianda,113,93627
+84,Last Man Down,R,Action,5.2,Fansu Njie,87,10549
+85,C'mon C'mon,R,Drama,7.5,Mike Mills,109,16848
+86,Infinite,PG-13,Action,5.4,Antoine Fuqua,106,43283
+87,The Card Counter,R,Crime,6.3,Paul Schrader,111,22128
+88,The Tomorrow War,PG-13,Action,6.6,Chris McKay,138,191126
+89,Halloween Kills,R,Horror,5.6,David Gordon Green,105,67154
+90,A House on the Bayou,Unrated,Horror,5.4,Alex McAulay,88,1968
+91,Cry Macho,PG-13,Drama,5.7,Clint Eastwood,104,22375
+92,The Little Things,R,Crime,6.3,John Lee Hancock,128,90946
+93,The Guilty,R,Crime,6.3,Antoine Fuqua,90,108229
+94,Mortal Kombat,R,Action,6.1,Simon McQuoid,110,162831
+95,Copshop,R,Action,6.2,Joe Carnahan,107,24039
+96,Ted K,R,Biography,6,Tony Stone,120,1553
+97,After We Fell,R,Drama,4.8,Castille Landon,98,11398
+98,Army of the Dead,R,Action,5.7,Zack Snyder,148,163608
+99,Chaos Walking,PG-13,Action,5.7,Doug Liman,109,41941
+100,Finch,PG-13,Adventure,6.9,Miguel Sapochnik,115,71621
+101,Those Who Wish Me Dead,R,Action,6,Taylor Sheridan,100,55330
+102,Last Looks,R,Action,5.6,Tim Kirkby,110,4066
+103,Belle,PG,Animation,7.4,Mamoru Hosoda,121,5277
+104,Jai Bhim,TV-MA,Crime,9.5,T.J. Gnanavel,164,177390
+105,In the Heights,PG-13,Drama,7.3,Jon M. Chu,143,43315
+106,Godzilla vs. Kong,PG-13,Action,6.3,Adam Wingard,113,193500
+107,Ron's Gone Wrong,PG,Animation,7.1,Sarah Smith,107,26474
+108,Girl in the Basement,TV-14,Crime,6.4,Elisabeth R?hm,88,6499
+109,Clifford the Big Red Dog,PG,Adventure,6,Walt Becker,96,10158
+110,The Innocents,Unrated,Drama,7,Eskil Vogt,117,4365
+111,13 Minutes,PG-13,Action,4.6,Lindsay Gossling,108,1855
+112,My Wonderful Life,Unrated,Comedy,5.7,Lukasz Grzegorzek,99,342
+113,Cinderella,PG,Comedy,4.3,Kay Cannon,113,39005
+114,Reminiscence,PG-13,Mystery,5.9,Lisa Joy,116,48011
+115,Boiling Point,R,Drama,7.5,Philip Barantini,92,7990
+116,Stillwater,R,Crime,6.6,Tom McCarthy,139,34847
+117,Werewolves Within,R,Comedy,6,Josh Ruben,97,15933
+118,Snake Eyes,PG-13,Action,5.4,Robert Schwentke,121,32630
+119,The Woman in the Window,R,Crime,5.7,Joe Wright,100,70483
+120,Dear Evan Hansen,PG-13,Drama,6.2,Stephen Chbosky,137,10556
+121,The Conjuring: The Devil Made Me Do It,R,Horror,6.3,Michael Chaves,112,103324
+122,Coming 2 America,PG-13,Comedy,5.3,Craig Brewer,110,66542
+123,Kate,R,Action,6.2,Cedric Nicolas-Troyan,106,55515
+124,Don't Breathe 2,R,Action,6.1,Rodo Sayagues,98,44842
+125,Malcolm & Marie,R,Drama,6.6,Sam Levinson,106,35191
+126,Man of God,Unrated,Biography,7.4,Yelena Popovic,109,2036
+127,Wrong Turn,R,Horror,5.5,Mike P. Nelson,109,27416
+128,Pushpa: The Rise - Part 1,Unrated,Action,8,Sukumar,179,47236
+129,No Sudden Move,R,Crime,6.5,Steven Soderbergh,115,30159
+130,Great Freedom,Unrated,Drama,7.7,Sebastian Meise,116,1119
+131,Annette,R,Drama,6.4,Leos Carax,141,17264
+132,Mass,PG-13,Drama,7.7,Fran Kranz,111,9304
+133,The Deep House,Unrated,Drama,5.4,Alexandre Bustillo,85,7044
+134,Eiffel,R,Biography,6.2,Martin Bourboulon,108,2178
+135,In the Earth,R,Horror,5.2,Ben Wheatley,107,7037
+136,Space Jam: A New Legacy,PG,Animation,4.4,Malcolm D. Lee,115,65664
+137,The Electrical Life of Louis Wain,PG-13,Biography,6.8,Will Sharpe,111,10483
+138,Jeepers Creepers: Reborn,Unrated,Horror,7.7,Timo Vuorensola,88,98
+139,Gunpowder Milkshake,R,Action,6,Navot Papushado,114,38704
+140,Candyman,R,Horror,5.9,Nia DaCosta,91,50791
+141,The Mauritanian,R,Biography,7.4,Kevin Macdonald,129,47093
+142,Cherry,R,Crime,6.6,Anthony Russo,142,29646
+143,A Hero,PG-13,Drama,7.5,Asghar Farhadi,127,18429
+144,Rumble,PG,Animation,5.9,Hamish Grieve,104,4359
+145,Voyagers,PG-13,Adventure,5.4,Neil Burger,108,18124
+146,The Dig,PG-13,Biography,7.1,Simon Stone,112,70721
+147,The Forever Purge,R,Action,5.4,Everardo Gout,103,27126
+148,Compartment Number 6,R,Drama,7.4,Juho Kuosmanen,107,5091
+149,The Marksman,PG-13,Action,5.6,Robert Lorenz,108,29602
+150,My Son,R,Crime,6,Christian Carion,95,8578
+151,How It Ends,R,Comedy,5,Zoe Lister-Jones,82,2072
+152,Queenpins,R,Comedy,6.3,Aron Gaudet,110,10379
+153,The Ice Road,PG-13,Action,5.6,Jonathan Hensleigh,109,33768
+154,'83,Unrated,Biography,7.4,Kabir Khan,162,21166
+155,The Vault,R,Action,6.4,Jaume Balaguer?,118,21750
+156,The Humans,R,Drama,6.2,Stephen Karam,108,5058
+157,Nightride,Unrated,Crime,5.8,Stephen Fingleton,97,325
+158,Night Teeth,TV-14,Action,5.6,Adam Randall,107,16119
+159,Dangerous,R,Action,5.1,David Hackl,99,4055
+160,Ali & Ava,Unrated,Drama,7.1,Clio Barnard,95,462
+161,Judas and the Black Messiah,R,Biography,7.4,Shaka King,126,71162
+162,Jolt,R,Action,5.6,Tanya Wexler,91,28196
+163,Spiral,R,Crime,5.2,Darren Lynn Bousman,93,46086
+164,Mother/Android,R,Drama,4.8,Mattson Tomlin,110,16638
+165,The Colony,R,Action,5.4,Tim Fehlbaum,104,7298
+166,Till Death,R,Thriller,5.8,S.K. Dale,88,17996
+167,Barb and Star Go to Vista Del Mar,PG-13,Comedy,6.3,Josh Greenbaum,107,15997
+168,Pinocchio: A True Story,PG,Animation,5.4,Vasiliy Rovenskiy,84,393
+169,Without Remorse,R,Action,5.7,Stefano Sollima,109,54334
+170,The Pilot. A Battle for Survival,Unrated,Biography,5.9,Renat Davletyarov,105,657
+171,Passing,PG-13,Drama,6.7,Rebecca Hall,98,12688
+172,The Phantom of the Open,PG-13,Comedy,7.7,Craig Roberts,102,211
+173,The Trip,TV-MA,Action,6.9,Tommy Wirkola,113,17952
+174,Silent Night,Unrated,Comedy,5.7,Camille Griffin,92,10272
+175,"Paris, 13th District",R,Comedy,7,Jacques Audiard,105,1535
+176,Le loup et le lion,PG,Family,6,Gilles de Maistre,99,844
+177,Vivo,PG,Animation,6.7,Kirk DeMicco,95,16942
+178,Fear Street: Part One - 1994,R,Drama,6.2,Leigh Janiak,107,73044
+179,Sundown,R,Drama,6.6,Michel Franco,82,1173
+180,Tom and Jerry,PG,Animation,5.3,Tim Story,101,32830
+181,He's All That,TV-14,Comedy,4.3,Mark Waters,88,22844
+182,Barbarians,Unrated,Thriller,6,Charles Dorfman,89,38
+183,Lost Illusions,Unrated,Drama,7.6,Xavier Giannoli,149,1194
+184,Swan Song,R,Drama,6.8,Benjamin Cleary,112,11303
+185,PAW Patrol: The Movie,G,Animation,6.2,Cal Brunker,86,5409
+186,Mothering Sunday,R,Drama,5.9,Eva Husson,104,1129
+187,Bad Luck Banging or Loony Porn,Unrated,Comedy,6.6,Radu Jude,106,5655
+188,Willy's Wonderland,TV-MA,Action,5.5,Kevin Lewis,88,25397
+189,Things Heard & Seen,TV-MA,Drama,5.3,Shari Springer Berman,121,29450
+190,Paranormal Activity: Next of Kin,R,Horror,5.2,William Eubank,98,9031
+191,Memoria,PG,Drama,6.6,Apichatpong Weerasethakul,136,4294
+192,Respect,PG-13,Biography,6.5,Liesl Tommy,145,11057
+193,Intrusion,TV-14,Drama,5.3,Adam Salky,92,14611
+194,Back to the Outback,PG,Animation,6.6,Harry Cripps,95,6657
+195,"Batman: The Long Halloween, Part One",PG-13,Animation,7.3,Chris Palmer,85,13529
+196,National Champions,R,Drama,5.5,Ric Roman Waugh,116,1033
+197,Escape from Mogadishu,TV-14,Action,7.1,Seung-wan Ryu,121,3654
+198,Aftermath,TV-MA,Drama,5.3,Peter Winther,114,14472
+199,Lansky,R,Biography,6.3,Eytan Rockaway,119,5319
+200,The Addams Family 2,PG,Animation,5.4,Greg Tiernan,93,9445
+201,No One Gets Out Alive,R,Drama,5.3,Santiago Menghini,85,12872
+202,Petite Maman,Unrated,Drama,7.4,C?line Sciamma,72,6016
+203,Injustice,R,Animation,6.3,Matt Peters,78,9921
+204,6:45,R,Thriller,4.2,Craig Singer,93,364
+205,Shyam Singha Roy,Unrated,Drama,8,Rahul Sankrityan,155,9593
+206,Last Survivors,Unrated,Sci-Fi,4.6,Drew Mylrea,98,1072
+207,Sweet Girl,R,Action,5.5,Brian Andrew Mendoza,110,29870
+208,See for Me,Unrated,Crime,5.8,Randall Okita,92,1987
+209,The Last Letter from Your Lover,TV-MA,Drama,6.7,Augustine Frizzell,110,15324
+210,Firebird,Unrated,Drama,7.5,Peeter Rebane,107,4351
+211,The Boss Baby: Family Business,PG,Animation,5.9,Tom McGrath,107,15612
+212,Vacation Friends,R,Adventure,6.3,Clay Tarver,103,19592
+213,Love Hard,TV-MA,Comedy,6.3,Hernan Jimenez,104,47574
+214,Hypnotic,TV-14,Mystery,5.3,Matt Angel,88,13993
+215,Nitram,Unrated,Drama,7.2,Justin Kurzel,112,3763
+216,My Best Friend Anne Frank,TV-14,Drama,6.2,Ben Sombogaart,103,3302
+217,Censor,Unrated,Horror,6,Prano Bailey-Bond,84,12428
+218,Happening,R,Drama,7.4,Audrey Diwan,100,1495
+219,The Medium,Unrated,Horror,6.6,Banjong Pisanthanakun,130,5806
+220,There's Someone Inside Your House,TV-MA,Horror,4.8,Patrick Brice,96,13545
+221,SAS: Red Notice,R,Action,5.2,Magnus Martens,124,17240
+222,American Siege,R,Action,3.4,Edward Drake,100,907
+223,Operation Mincemeat,PG-13,Drama,7.1,John Madden,128,129
+224,Beckett,TV-MA,Action,5.6,Ferdinando Cito Filomarino,110,24692
+225,"Onoda: 10,000 Nights in the Jungle",Unrated,Adventure,7.3,Arthur Harari,173,909
+226,The Kissing Booth 3,TV-14,Comedy,4.7,Vince Marcello,112,14867
+227,Stowaway,TV-MA,Adventure,5.6,Joe Penna,116,43861
+228,Zone 414,R,Sci-Fi,4.9,Andrew Baird,98,3504
+229,The Feast,Unrated,Drama,5.4,Lee Haven Jones,93,1524
+230,Shepherd,Unrated,Horror,5.1,Russell Owen,103,297
+231,Settlers,Unrated,Drama,4.7,Wyatt Rockefeller,103,4509
+232,A Journal for Jordan,PG-13,Drama,5.8,Denzel Washington,131,1105
+233,Where Is Anne Frank,Unrated,Animation,6.6,Ari Folman,99,298
+234,Atrangi Re,Unrated,Comedy,6.7,Aanand L. Rai,138,22340
+235,Vortex,Unrated,Drama,7.6,Gaspar No?,140,631
+236,Fortress,R,Action,3.5,James Cullen Bressack,99,3281
+237,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,Unrated,Animation,9.3,Haruo Sotozaki,87,3187
+238,Minnal Murali,TV-14,Action,8.2,Basil Joseph,158,25302
+239,A Mouthful of Air,R,Drama,5.9,Amy Koppelman,105,1066
+240,The Birthday Cake,R,Crime,4.3,Jimmy Giannopoulos,93,1150
+241,Official Competition,Unrated,Comedy,7.4,Mariano Cohn,114,514
+242,American Insurrection,R,Drama,2.4,William Sullivan,115,984
+243,Hideout,Unrated,Horror,6.1,Kris Roselli,114,5413
+244,Every Breath You Take,R,Drama,5.3,Vaughn Stein,105,4593
+245,Black Box,Unrated,Drama,7.2,Yann Gozlan,129,4606
+246,The Survivalist,R,Action,3.4,Jon Keeyes,91,997
+247,Palmer,R,Drama,7.2,Fisher Stevens,110,32629
+248,Blue Bayou,R,Drama,7,Justin Chon,117,4973
+249,North Hollywood,Unrated,Comedy,6,Mikey Alfred,93,1693
+250,Fear Street: Part Two - 1978,R,Drama,6.7,Leigh Janiak,109,56836
